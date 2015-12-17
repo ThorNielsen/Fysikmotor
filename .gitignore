@@ -1,0 +1,10 @@
+*.[oa]
+*~
+/bin
+/obj
+/lib
+data/*
+!/data/shaders
+ValgrindOut.xml
+*.depend
+*.layout
